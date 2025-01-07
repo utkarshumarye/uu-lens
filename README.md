@@ -10,9 +10,6 @@ This project implements an image similarity search system using multiple machine
 3. [Methods](#methods)
 4. [Results](#results)
 5. [Dependencies](#dependencies)
-6. [Usage](#usage)
-7. [Evaluation](#evaluation)
-8. [References](#references)
 
 ---
 
